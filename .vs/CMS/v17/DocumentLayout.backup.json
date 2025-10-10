@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "D:\\CMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|D:\\CMS\\forms\\productdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|solutionrelative:forms\\productdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|D:\\CMS\\forms\\productdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|solutionrelative:forms\\productdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|d:\\cms\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|solutionrelative:forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|D:\\CMS\\forms\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|solutionrelative:forms\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|d:\\cms\\forms\\customerdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|solutionrelative:forms\\customerdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|D:\\CMS\\forms\\customerdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|solutionrelative:forms\\customerdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|D:\\CMS\\forms\\customerdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|solutionrelative:forms\\customerdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|D:\\CMS\\forms\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|solutionrelative:forms\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|D:\\CMS\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|D:\\CMS\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|D:\\CMS\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|solutionrelative:forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|D:\\CMS\\forms\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4BC80BD-EE0F-4F3A-A99E-44CF407D5B8D}|CMS.csproj|solutionrelative:forms\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,89 +50,73 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegisterForm.cs [Design]",
-              "DocumentMoniker": "D:\\CMS\\Forms\\RegisterForm.cs",
-              "RelativeDocumentMoniker": "Forms\\RegisterForm.cs",
-              "ToolTip": "D:\\CMS\\Forms\\RegisterForm.cs [Design]",
-              "RelativeToolTip": "Forms\\RegisterForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T03:13:16.872Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductDetailForm.cs [Design]",
-              "DocumentMoniker": "D:\\CMS\\Forms\\ProductDetailForm.cs",
-              "RelativeDocumentMoniker": "Forms\\ProductDetailForm.cs",
-              "ToolTip": "D:\\CMS\\Forms\\ProductDetailForm.cs [Design]",
-              "RelativeToolTip": "Forms\\ProductDetailForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T08:29:10.291Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductDetailForm.cs",
-              "DocumentMoniker": "D:\\CMS\\Forms\\ProductDetailForm.cs",
-              "RelativeDocumentMoniker": "Forms\\ProductDetailForm.cs",
-              "ToolTip": "D:\\CMS\\Forms\\ProductDetailForm.cs",
-              "RelativeToolTip": "Forms\\ProductDetailForm.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAEwDcAAABGAAAAAAAAAA==",
+              "Title": "CustomerDetailForm.cs",
+              "DocumentMoniker": "D:\\CMS\\Forms\\CustomerDetailForm.cs",
+              "RelativeDocumentMoniker": "Forms\\CustomerDetailForm.cs",
+              "ToolTip": "D:\\CMS\\Forms\\CustomerDetailForm.cs",
+              "RelativeToolTip": "Forms\\CustomerDetailForm.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADgvyMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T08:29:44.852Z",
+              "WhenOpened": "2025-10-10T04:38:58.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "CustomerDetailForm.cs [Design]",
               "DocumentMoniker": "D:\\CMS\\Forms\\CustomerDetailForm.cs",
               "RelativeDocumentMoniker": "Forms\\CustomerDetailForm.cs",
               "ToolTip": "D:\\CMS\\Forms\\CustomerDetailForm.cs [Design]",
               "RelativeToolTip": "Forms\\CustomerDetailForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T08:29:12.623Z",
+              "WhenOpened": "2025-10-10T04:38:48.876Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\CMS\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "D:\\CMS\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T04:36:20.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "D:\\CMS\\Forms\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "Forms\\DashboardForm.cs",
+              "ToolTip": "D:\\CMS\\Forms\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "Forms\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T04:36:18.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "D:\\CMS\\Forms\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "Forms\\CustomerForm.cs",
+              "ToolTip": "D:\\CMS\\Forms\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "Forms\\CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T04:36:17.083Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ProductForm.cs [Design]",
               "DocumentMoniker": "D:\\CMS\\Forms\\ProductForm.cs",
               "RelativeDocumentMoniker": "Forms\\ProductForm.cs",
               "ToolTip": "D:\\CMS\\Forms\\ProductForm.cs [Design]",
               "RelativeToolTip": "Forms\\ProductForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T08:29:08.08Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomerDetailForm.cs",
-              "DocumentMoniker": "D:\\CMS\\Forms\\CustomerDetailForm.cs",
-              "RelativeDocumentMoniker": "Forms\\CustomerDetailForm.cs",
-              "ToolTip": "D:\\CMS\\Forms\\CustomerDetailForm.cs",
-              "RelativeToolTip": "Forms\\CustomerDetailForm.cs",
-              "ViewState": "AgIAAN8AAAAAAAAAAAAuwPgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T08:29:30.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DatabaseHelper.cs",
-              "DocumentMoniker": "D:\\CMS\\DatabaseHelper.cs",
-              "RelativeDocumentMoniker": "DatabaseHelper.cs",
-              "ToolTip": "D:\\CMS\\DatabaseHelper.cs",
-              "RelativeToolTip": "DatabaseHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T08:28:19.631Z"
+              "WhenOpened": "2025-10-10T04:36:23.192Z"
             }
           ]
         },
