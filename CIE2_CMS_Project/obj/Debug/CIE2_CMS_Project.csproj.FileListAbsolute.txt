@@ -1,0 +1,30 @@
+D:\RKU\5th SEM\.NET and C#\CIE2_CMS_Project\bin\Debug\CIE2_CMS_Project.exe.config
+D:\RKU\5th SEM\.NET and C#\CIE2_CMS_Project\bin\Debug\CIE2_CMS_Project.exe
+D:\RKU\5th SEM\.NET and C#\CIE2_CMS_Project\bin\Debug\CIE2_CMS_Project.pdb
+D:\RKU\5th SEM\.NET and C#\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.csproj.AssemblyReference.cache
+D:\RKU\5th SEM\.NET and C#\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.Form1.resources
+D:\RKU\5th SEM\.NET and C#\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.Form2.resources
+D:\RKU\5th SEM\.NET and C#\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.Form3.resources
+D:\RKU\5th SEM\.NET and C#\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.Form4.resources
+D:\RKU\5th SEM\.NET and C#\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.Form5.resources
+D:\RKU\5th SEM\.NET and C#\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.Properties.Resources.resources
+D:\RKU\5th SEM\.NET and C#\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.csproj.GenerateResource.cache
+D:\RKU\5th SEM\.NET and C#\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.csproj.CoreCompileInputs.cache
+D:\RKU\5th SEM\.NET and C#\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.exe
+D:\RKU\5th SEM\.NET and C#\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.pdb
+D:\RKU\5th SEM\.NET and C#\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.exe.config
+D:\CIE2_CMS_Project\bin\Debug\CIE2_CMS_Project.exe.config
+D:\CIE2_CMS_Project\bin\Debug\CIE2_CMS_Project.exe
+D:\CIE2_CMS_Project\bin\Debug\CIE2_CMS_Project.pdb
+D:\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.csproj.AssemblyReference.cache
+D:\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.exe.config
+D:\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.Form1.resources
+D:\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.Form2.resources
+D:\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.Form3.resources
+D:\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.Form4.resources
+D:\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.Form5.resources
+D:\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.Properties.Resources.resources
+D:\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.csproj.GenerateResource.cache
+D:\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.csproj.CoreCompileInputs.cache
+D:\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.exe
+D:\CIE2_CMS_Project\obj\Debug\CIE2_CMS_Project.pdb
