@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\CMS\\CIE2_CMS_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1D875DE-B00B-4C01-83B3-557843A54C29}|CIE2_CMS_Project.csproj|D:\\CMS\\CIE2_CMS_Project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A1D875DE-B00B-4C01-83B3-557843A54C29}|CIE2_CMS_Project.csproj|d:\\cms\\cie2_cms_project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A1D875DE-B00B-4C01-83B3-557843A54C29}|CIE2_CMS_Project.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{A1D875DE-B00B-4C01-83B3-557843A54C29}|CIE2_CMS_Project.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D875DE-B00B-4C01-83B3-557843A54C29}|CIE2_CMS_Project.csproj|d:\\cms\\cie2_cms_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A1D875DE-B00B-4C01-83B3-557843A54C29}|CIE2_CMS_Project.csproj|D:\\CMS\\CIE2_CMS_Project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A1D875DE-B00B-4C01-83B3-557843A54C29}|CIE2_CMS_Project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -89,8 +89,7 @@
               "RelativeToolTip": "Form4.cs",
               "ViewState": "AgIAAG8AAAAAAAAAAAAewKsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T05:53:28.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T05:53:28.186Z"
             },
             {
               "$type": "Document",
@@ -101,8 +100,7 @@
               "ToolTip": "D:\\CMS\\CIE2_CMS_Project\\Form4.cs [Design]",
               "RelativeToolTip": "Form4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T05:53:25.978Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-13T05:53:25.978Z"
             },
             {
               "$type": "Document",
@@ -136,8 +134,7 @@
               "ToolTip": "D:\\CMS\\CIE2_CMS_Project\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T05:53:19.544Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-13T05:53:19.544Z"
             }
           ]
         },
